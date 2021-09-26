@@ -1,5 +1,4 @@
-Indonesian People who survive his life with Coding! 😎
-- IG : instagram.com/richzxx
+Please enjoy my bad Repo
 - Youtube : bit.ly/Richzxx
 
 <!---
