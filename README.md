@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Richard Laurent
-- 👀 I’m interested in Music and Web Programming
-- 🌱 I’m currently learning Laravel 8 and Vanilla Javascript.
-- 📫 How to reach me my IG & Twitter : @richzxx
+Indonesian People who survive his life with Coding!
+IG : instagram.com/richzxx
+Youtube : bit.ly/Richzxx
 
 <!---
 richzxx/richzxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
